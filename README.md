@@ -1,6 +1,6 @@
 # 📈 Stock Market Dashboard
 
-Built an interactive \textbf{stock market dashboard} using JavaScript and the Canvas API to visualize stock price trends across multiple time ranges (1M, 3M, 1Y, 5Y).
+Built an interactive **stock market dashboard** using JavaScript and the Canvas API to visualize stock price trends across multiple time ranges (1M, 3M, 1Y, 5Y).
 Integrated **REST APIs** to fetch and display real-time stock data, including price history, summaries, and key financial metrics.
 Implemented dynamic features such as hover tooltips, responsive charts, and stock selection, enhancing user interactivity and experience.
 Structured the application using **modular ES6 JavaScript**, improving code organization, maintainability, and scalability.
@@ -27,8 +27,3 @@ https://stock-market-analysis1.netlify.app/
 ## 📸 Screenshots
 
 ![Screenshot](./assets/Screenshot.png)
-
-## ⚙️ Setup
-
-git clone https://github.com/your-username/stock-market-dashboard.git
-open index.html
